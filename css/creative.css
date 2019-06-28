@@ -10811,6 +10811,7 @@ header.masthead h1 {
     overflow: hidden;
     overflow-x: hidden;
 }
-.page-section.bg-dark.text-white{
-  margin-top:-40px;
+
+img.icons-logo {
+    width: 40px;
 }
