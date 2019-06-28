@@ -10378,6 +10378,10 @@ button.bg-dark:focus {
   color: #006496 !important;
 }
 
+.text-purple {
+  color: #870058 !important;
+}
+
 .text-primary {
   color: #f4623a !important;
 }
@@ -10460,6 +10464,10 @@ a.text-dark:hover, a.text-dark:focus {
 
 .text-blue-50 {
   color: #006496 !important;
+}
+
+.text-purple-50 {
+  color: #870058 !important;
 }
 
 .text-hide {
@@ -10583,6 +10591,10 @@ html {
 
 .text-blue-75 {
   color: #006496;
+}
+
+.text-purple-75 {
+  color: #870058;
 }
 
 hr.divider {
