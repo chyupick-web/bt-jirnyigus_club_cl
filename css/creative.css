@@ -10773,3 +10773,6 @@ header.masthead h1 {
 .pictures-carousel{
   padding-top: 70px;
 }
+.pictures-carousel img{
+  background-size: cover;
+}
